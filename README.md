@@ -34,13 +34,13 @@ A handy set of utilities to enhance and simplify logging in Spring Boot Applicat
 ---
 
 <div align="center">
-  <a href="https://github.com/slydeveloper">
+  <a href="https://github.com/ice-lfernandes">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice-lfernandes&theme=react" />
   </a>
 </div>
 <br/>
 <div align="center">
-  <a href="https://github.com/slydeveloper">
+  <a href="https://github.com/ice-lfernandes">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice-lfernandes&layout=compact&theme=radical&langs_count=8&card_width=320" />
   </a>
 </div>
