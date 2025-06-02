@@ -22,7 +22,8 @@ I'm an IT Specialist with a strong focus on backend development and software arc
 A streamlined way to manage secrets in your Spring Boot applications, enabling enhanced security and seamless integration with popular secret managers.
 
 #### [spring-log-utils](https://github.com/open-source-lfernandes/spring-log-utils)
-A handy set of utilities to enhance and simplify logging in Spring Boot applications. *(Update this description to better fit your project!)*
+A handy set of utilities to enhance and simplify logging in Spring Boot Applications.
+
 ---
 
 ### 🌐 Connect with Me
