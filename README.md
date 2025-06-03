@@ -3,6 +3,15 @@
 **IT Specialist | Backend Developer | Software Architect**
 
 ---
+### Personal Github  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice-lfernandes&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice-lfernandes&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+---
 
 ### 🚀 About Me
 
@@ -35,7 +44,7 @@ A handy set of utilities to enhance and simplify logging in Spring Boot Applicat
 
 <div align="center">
   <a href="https://github.com/ice-lfernandes">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice-lfernandes&theme=react" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice-lfernandes&theme=dark" />
   </a>
 </div>
 <br/>
