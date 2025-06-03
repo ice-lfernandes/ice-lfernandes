@@ -40,23 +40,3 @@ A handy set of utilities to enhance and simplify logging in Spring Boot Applicat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lucasdfernandes/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://lucas-fernandes.medium.com)
 
----
-
-<div align="center">
-  <a href="https://github.com/ice-lfernandes">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice-lfernandes&theme=dark" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/ice-lfernandes">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice-lfernandes&layout=compact&theme=radical&langs_count=8&card_width=320" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> 
-</div>
-<br/>
