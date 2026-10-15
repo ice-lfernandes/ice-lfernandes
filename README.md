@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Fernandes
+# 👋 Hi,
 
 **IT Specialist | Backend Developer | Software Architect**
 
